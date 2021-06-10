@@ -1,0 +1,33 @@
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  margin-top: 5px;
+  background-image: url('https://i.pinimg.com/originals/6a/d0/84/6ad084227dffebb91c06ec1995229025.gif');
+}
+h1,h3{
+  margin:0;
+  padding:5px;
+}
+h1 {
+	color: #CD5E77;
+}
+h3{
+	color: #E17F93;
+}
+table {
+  width:75%;
+}
+table, th, td {
+  border: 1px solid #CD5E77;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+#t01 th {
+  background-color: #CD5E77;
+  color: white;
+}
+td {
+	font-size: 9px;
+}
